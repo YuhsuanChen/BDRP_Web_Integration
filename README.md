@@ -1,8 +1,10 @@
 # BDRP_WebIntegration
 
-To run and test the website, run the follwoing command and open the http://localhost:8080/BDRPWeb : 
+To run and test the website, run the follwoing command: mvn tomcat7:run
+Then open the http://localhost:8080/BDRPWeb 
 
-$mvn tomcat7:run
+
+![demo](https://github.com/YuhsuanChen/BDRP_Web_Integration/blob/main/demo.png)
 
 
 
